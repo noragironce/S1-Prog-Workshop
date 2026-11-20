@@ -181,9 +181,15 @@ Ce paramètre me permet aussi de choisir le centre de chaque cercle sans réécr
 
 |    Avant      |    Après      | 
 | ------------- |  -----------  | 
-|![](images/logo.png)| ![](output/mosaique.png)|     
+|![](images/logo.png)| ![](output/mosaique.png)|  
 
-## Exercice 16: Tri de pixels
+## Exercice 16: Glitch 
+
+|    Avant      |    Après      | 
+| ------------- |  -----------  | 
+|![](images/logo.png)| ![](output/glitch.png)|  
+
+## Exercice 17: Tri de pixels
 
 |    Avant      |    Après : Trier tous les pixels      | 
 | ------------- |  -----------  | 
@@ -215,7 +221,7 @@ float brightness(glm::vec3 color){
 Les coefficients font 1 au total, donc pas besoin de diviser par 3.
 
 
-## Exercice 17: Dégradés dans l'espace de couleur Lab
+## Exercice 18: Dégradés dans l'espace de couleur Lab
 
 |    Avant      |    Après      | 
 | ------------- |  -----------  | 
